@@ -1,7 +1,7 @@
 import './page1.css'
-import logo from './foto/logo'
-import foto1 from './foto/foto1'
-import foto2 from './foto/foto2'
+import logo from './foto/logo.png'
+import foto1 from './foto/foto1.png'
+import foto2 from './foto/foto2.png'
 
 function Page1(){
   return (
