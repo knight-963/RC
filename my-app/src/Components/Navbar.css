@@ -1,0 +1,84 @@
+.nav{
+    display: flex;
+    gap: 220px;
+    justify-content: center;
+    background-color: rgb(247, 169, 193);
+}
+.nav1{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+button{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(234, 1, 156);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: rgb(31, 31, 31);
+}
+a:hover{
+    color: rgb(234, 1, 156);
+}
+li{
+    list-style-type: none;
+}
+.btr{
+    padding-left: 50px;
+}
+.btn{
+    padding-top: 20px;
+}
+.pasi{
+    justify-content: center;
+    display: flex;
+    padding-top: 140px;
+    gap: 50px;
+    background-color: rgb(247, 169, 193);
+    height: 500px;
+}
+.chap{
+    margin-left: 100px;
+}
+.ong{
+    display: flex;
+}
+.amg1{
+    height: 500px;
+    position: absolute;
+}
+.amg{
+    height: 500px;
+    margin: -120px 0px 0px 100px;
+}
+.ort{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 280px;
+    gap: 100px;
+}
+.numbers{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: none;
+    color: black;
+}
+.ams{
+    height: 50px;
+}
+.amd{
+    height: 600px;
+}
+.pasidi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 178, 204);
+}
