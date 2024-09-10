@@ -1,15 +1,31 @@
 import './page1.css'
-import logo from './foto/logo.png'
-import foto1 from './foto/foto1.png'
-import foto2 from './foto/foto2.png'
+import logo from '../foto/logo.png'
 
 function Page1(){
   return (
     <div className="Page1">
 
-        <div>
+        <div className='navbar'>
 
         <img src={logo} alt="" />
+
+        <div className="nv">
+
+          <h2>Home</h2>
+
+          <h2>About</h2>
+
+          <h2>Services</h2>
+
+          <h2>Projects</h2>
+
+        </div>
+
+        <div className="gf">
+
+          <button><h3>Contact us</h3></button>
+
+        </div>
 
         </div>
       
